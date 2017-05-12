@@ -1,6 +1,6 @@
-# Unscented Kalman Filter Project Starter Code
-Self-Driving Car Engineer Nanodegree Program
-Implementation of Unscented-Kalman-Filter in C++ for Lidar and Radar measurements.
+# Unscented Kalman Filter Project
+* Self-Driving Car Engineer Nanodegree Program
+* Implementation of Unscented-Kalman-Filter in C++ for Lidar and Radar measurements.
 
 ---
 
